@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/NobleSimeon/FEM-four-card-feature-section-master)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github repo](https://github.com/NobleSimeon/FEM-four-card-feature-section-master)
+- Live Site URL: [live site](https://your-live-site-url.com)
 
 ## My process
 
@@ -77,6 +77,6 @@ Well, I want to move animation and transition
 ## Author
 
 - Website - [Ojelabi Simeon](https://github.com/NobleSimeon)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/NobleSimeon)
-- Twitter - [@yourusername](https://www.twitter.com/SimeonPelumi)
+- Frontend Mentor - [@NobleSimeon](https://www.frontendmentor.io/profile/NobleSimeon)
+- Twitter - [@SimeonPelumi](https://www.twitter.com/SimeonPelumi)
 
